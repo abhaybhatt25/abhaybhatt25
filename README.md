@@ -37,6 +37,16 @@ My background spans **ERP/CRM enhancements**, **workflow automation**, and **pro
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-FF6600?style=for-the-badge&logo=lucidchart&logoColor=white)
+
+### Business Analysis & Process Modeling
+![User Stories](https://img.shields.io/badge/User_Stories-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Requirements Gathering](https://img.shields.io/badge/Requirements-4A90E2?style=for-the-badge&logo=notion&logoColor=white)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Mgmt-00A4EF?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-FF6600?style=for-the-badge&logo=camunda&logoColor=white)
+![Use Case Modeling](https://img.shields.io/badge/Use_Case_Modeling-4A90E2?style=for-the-badge&logo=uml&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -52,19 +62,50 @@ My background spans **ERP/CRM enhancements**, **workflow automation**, and **pro
 
 ## 📂 Featured Projects
 
-### 🎯 Business Intelligence Dashboards
-- **Sales Performance Dashboard** - Real-time KPI tracking for real estate sales team
-- **Marketing ROI Analytics** - Meta advertising campaign performance analysis
-- **Financial Reporting Suite** - Automated monthly financial reports with drill-through capabilities
-- **Operational Efficiency Dashboard** - Process optimization metrics for cross-functional teams
+### 📊 Power BI Performance Dashboard Development
+**Technologies:** Power BI, DAX, Power Query, SQL, Microsoft Fabric  
+**Description:** Developed comprehensive performance dashboards to track business KPIs and metrics  
+- Built interactive visualizations with drill-through capabilities for detailed analysis
+- Implemented advanced DAX measures for complex calculations and time intelligence
+- Optimized data refresh and performance for large datasets
+- Created executive-level reporting with automated distribution
 
-### 📊 Data Analysis Projects
-- **Customer Segmentation Analysis** - RFM analysis for targeted marketing campaigns
-- **Sales Forecasting Model** - Time-series forecasting using Power BI
-- **Product Performance Analytics** - SKU-level profitability analysis
+### 🎯 Meta Advertising Campaign Analytics Dashboard
+**Technologies:** Power BI, Meta Business Suite API, DAX, SQL  
+**Description:** Designed and deployed a comprehensive dashboard to analyze Meta advertising campaign performance  
+- Integrated data from multiple Meta advertising accounts
+- Created dynamic visualizations for campaign performance by audience, channel, and time period
+- Implemented ROI tracking and cost-per-acquisition metrics
+- Enabled data-driven decision making for marketing optimization
 
-*Check out my repositories below for code samples, DAX formulas, and documentation!*
+### 🏢 ERP/CRM Digital Transformation Initiative
+**Technologies:** Microsoft Dynamics 365, Power Automate, SQL, Jira, Confluence  
+**Description:** Led digital transformation project to enhance ERP/CRM systems and automate workflows  
+- Gathered and documented business requirements from cross-functional stakeholders
+- Designed and implemented automated workflows reducing manual effort by 40%
+- Coordinated UAT sessions and managed feedback incorporation
+- Delivered training to 50+ users on new system capabilities
 
+### 🚀 App Enhancement with New Features - Daily Essentials Module
+**Technologies:** Figma, Jira, Agile Scrum, Lucidchart, BPMN  
+**Description:** Led stakeholder engagement and market analysis for daily essentials feature expansion
+- Identified $2B potential market opportunity through comprehensive market analysis
+- Documented 50+ business requirements, reducing development time by 20%
+- Designed wireframes with Figma, improving UI by 30%
+- Created product backlog with 100+ user stories using Agile Scrum practices
+- Conducted stakeholder management across product, engineering, and business teams
+
+### 🍽️ Canteen Ordering System for Unilever
+**Technologies:** Figma, Jira, Lucidchart, BPMN, Use Case Modeling, SQL  
+**Description:** Designed and delivered end-to-end canteen ordering system for enterprise deployment
+- Captured 40+ business requirements through stakeholder analysis
+- Designed Figma wireframes and process flows using BPMN, reducing requirement rework by 25%
+- Improved ordering usability by 35% through user-centric design
+- Built product backlog with 80+ user stories in Jira
+- Conducted system impact analysis for payments and inventory integration
+- Improved sprint delivery by 20% and reduced order errors by 30%
+
+*Explore my repositories for code samples, DAX formulas, SQL queries, wireframes, and project documentation!*
 ---
 
 ## 🎓 Certifications
@@ -72,12 +113,6 @@ My background spans **ERP/CRM enhancements**, **workflow automation**, and **pro
 - 📜 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
 - 📜 **IIBA Entry Certificate in Business Analysis (ECBA)**
 - 📜 **Agile & Scrum Methodologies**
-
----
-
-## 📈 GitHub Stats
-
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhaybhatt25&show_icons=true&theme=radical)
 
 ---
 
@@ -96,8 +131,7 @@ Interested in teams that value:
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-bhatt-business-analyst)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhaybhatt25)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaybhatt25@outlook.com)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhaybhatt25)
 
 ---
 
